@@ -1,0 +1,27 @@
+{
+  "name": "@neojp/tailwindcss-important-variant",
+  "description": "Tailwind CSS !important variant",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Joan Piedra <joan@joanpiedra.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neojp/tailwindcss-important-variant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neojp/tailwindcss-important-variant/issues"
+  },
+  "homepage": "https://github.com/neojp/tailwindcss-important-variant#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "tailwindcss-important-variant",
+    "tailwindcss-variant",
+    "important",
+    "variant"
+  ]
+}
