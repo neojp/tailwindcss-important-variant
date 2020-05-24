@@ -1,7 +1,7 @@
 {
   "name": "@neojp/tailwindcss-important-variant",
   "description": "Tailwind CSS !important variant",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "SEE LICENSE IN LICENSE",
   "author": "Joan Piedra <joan@joanpiedra.com>",
   "main": "index.js",
@@ -20,8 +20,12 @@
     "tailwindcss",
     "tailwindcss-plugin",
     "tailwindcss-important-variant",
+    "tailwindcss-important",
     "tailwindcss-variant",
+    "tailwindcss-important",
+    "important-variant",
     "important",
-    "variant"
+    "variant",
+    "css"
   ]
 }
